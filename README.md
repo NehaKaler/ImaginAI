@@ -1,6 +1,5 @@
 Project Title: ImaginAI
 
-Deployed on Vercel
 🔗 Live URL: https://min-journey-ai-image-dall-e.vercel.app/
 
 📸 App Screenshots
